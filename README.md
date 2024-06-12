@@ -27,16 +27,16 @@ PRACTICAL 12--Developed an interest calculation application in which user will p
 
 PRACTICAL 13--Developed an application to demonstrate how the client (browser) can remember the last time it visited a page and displays the duration of time since its last visit. (Hint: use Cookie)
 
-PRACTICAL 14--Developed an application to keep track of one user across several servlet invocations within the same browser session.
+PRACTICAL 14--Developeded an application to keep track of one user across several servlet invocations within the same browser session.
 
-PRACTICAL 15--Develop an application to write a page-composite JSP that includes other pages or passes control to another page.
+PRACTICAL 15--Developed an application to write a page-composite JSP that includes other pages or passes control to another page.
 
-PRACTICAL 16--You want to reduce the amount of Java coding in your JSP using a JavaBean component. (Use with the name of your bean).
+PRACTICAL 16--We want to reduce the amount of Java coding in your JSP using a JavaBean component. (Use with the name of your bean).
 
-PRACTICAL 17--Develop a JSP Page to display the personal information and result information of the student in two different tabular formats.
+PRACTICAL 17--Developed a JSP Page to display the personal information and result information of the student in two different tabular formats.
 
-PRACTICAL 18--Create the filter that can add the time at which above html file called with appropriate message.
+PRACTICAL 18--Created a filter that can add the time at which above html file called with appropriate message.
 
-PRACTICAL 19--Write a Servlet which uses the concept of Request forwarding & including external source in the current servlet context
+PRACTICAL 19--Servlet which uses the concept of Request forwarding & including external source in the current servlet context
 
-PRACTICAL 20--Write a JSP Page to which uses Session Tracking for online shopping. (Using UrlWriting) 
+PRACTICAL 20--JSP Page to which uses Session Tracking for online shopping. (Using UrlWriting) 
